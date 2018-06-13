@@ -30,7 +30,9 @@
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 
-# 3 开发框架
+# 3 开发环境及框架
+* [以太坊私链POW或POA部署](./notes/summary/geth.md)
+
 ## 3.1 Reminx
 网页版开发工具
 - 在线地址：http://remix.ethereum.org
