@@ -42,3 +42,5 @@
 - [简书： 以太坊PoA共识引擎算法介绍](https://www.jianshu.com/p/9025a523ab0f)
 
 - [Medium： 使用 go-ethereum 1.6 Clique PoA consensus 建立 Private chain](https://medium.com/taipei-ethereum-meetup/%E4%BD%BF%E7%94%A8-go-ethereum-1-6-clique-poa-consensus-%E5%BB%BA%E7%AB%8B-private-chain-1-4d359f28feff)
+
+- [What is the safest minimum block time to use without having any problem on Proof-of-Authority consensus?](https://ethereum.stackexchange.com/questions/37985/what-is-the-safest-minimum-block-time-to-use-without-having-any-problem-on-proof)

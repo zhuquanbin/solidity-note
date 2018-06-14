@@ -3,6 +3,8 @@
 * [POW 部署](#Ethereum私链部署(POW))
 * [POA 部署](#Ethereum私链部署(POA))
 * [Proof-Of-Authority 介绍](./poa.md)
+* [supervisor 管理私链](./supervisor.md)
+* [MyEtherWallet 本地化部署](./myetherwallet.md)
 
 
 ## Ethereum私链部署(POW)
@@ -321,7 +323,7 @@
 
 - 添加节点
     - 登录node1 console , 添加 node2 对应的 coinbase
-        ```
+        ```bash
         prod@ubuntu:~/ethereum/poa$ geth attach nodes/node1/geth.ipc
         Welcome to the Geth JavaScript console!
 
